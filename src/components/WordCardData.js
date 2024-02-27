@@ -21,8 +21,8 @@ const ProjectCardData = [
         imgsrc: pro3,
         title: "My Fortfolio",
         text: "The about page provides more detailed information about me. The page shows notable projects I've worked on. Each project is described in detail in terms of goals, process and end result, accompanied by images.",
-        view: "https://shoptaifung.netlify.app/",
-        source: "https://github.com/TaiPhung02/E-commerce",
+        view: "https://tf-portfolio.netlify.app/",
+        source: "https://github.com/TaiPhung02/TP-Portfolio",
     },
 ];
 
